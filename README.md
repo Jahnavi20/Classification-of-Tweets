@@ -2,7 +2,16 @@
 ## Introduction
 ## Methodology
 ## Word Cloud
+  ![image](https://user-images.githubusercontent.com/48169929/226206741-dc138c95-79b3-40fc-8bdd-03513aa8aea1.png)
 ## Model Architectures
+### Model-1: CountVectorizer with Dense Neural Network
+  ![image](https://user-images.githubusercontent.com/48169929/226206703-d7dbb38b-4e4f-4378-a61f-830faa78ebd7.png)
+### Model-2: TfidfVectorizer() with Dense Neural Network
+  ![image](https://user-images.githubusercontent.com/48169929/226206685-c49b28c5-e809-459c-a892-da620c6c7b28.png)
+### Model-3: Flattened Word Embeddings with Dense Neural Network
+  ![image](https://user-images.githubusercontent.com/48169929/226206669-38140c98-d643-4875-8fe0-333fa974ce91.png)
+### Model-4: Advanced Neural Network
+  ![image](https://user-images.githubusercontent.com/48169929/226206654-a87a0174-ba55-427a-b89e-71cf835ca6aa.png)
 ## Model Comparisons
 ### RMSE
   ![image](https://user-images.githubusercontent.com/48169929/226206316-73b7dcc5-1dcc-435b-8f4d-54fd89d148ee.png)
