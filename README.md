@@ -1,6 +1,11 @@
 # Classification-of-Tweets
 ## Introduction
+* Sentiment analysis is the process of analyzing text to determine the emotional tone or sentiment of the text. This is a very useful tool in various fields like marketing, customer service, and politics. 
+* There are two main approaches to sentiment analysis: **rule-based** and **machine learning-based**. 
+* Rule-based methods use pre-defined rules and lexicons to determine the sentiment of the text. 
+* On the other hand, machine learning-based methods use algorithms to learn from data and predict the sentiment.
 ## Methodology
+
 ## Word Cloud
   ![image](https://user-images.githubusercontent.com/48169929/226206741-dc138c95-79b3-40fc-8bdd-03513aa8aea1.png)
 ## Model Architectures
