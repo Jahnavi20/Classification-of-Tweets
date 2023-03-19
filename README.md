@@ -4,6 +4,16 @@
 ## Word Cloud
 ## Model Architectures
 ## Model Comparisons
+### RMSE
+  ![image](https://user-images.githubusercontent.com/48169929/226206316-73b7dcc5-1dcc-435b-8f4d-54fd89d148ee.png)
+### MAE
+  ![image](https://user-images.githubusercontent.com/48169929/226206336-f83f867b-1044-42e9-bc88-7e8f5a82b28a.png)
+* We have observed that for the Negative score, CountVectorizer() or TfidfVectorizer() are performing better that other models.
+* We have observed that for the Neutral score, CountVectorizer() is performing better than other models.
+* We have observed that for the Positive score, CountVectorizer() or TfidfVectorizer() are performing better that other models.
+* We have observed that for the Compound score, CountVectorizer() is 
+performing better than other models.
+* We also observed that MAE for Positive and Negative Scores is less when compared to the MAE values for the Neutral and Compound scores.
 ## Conclusion
 * From the RMSE and MAE values for the test data we can see that CountVectorizer() and TfidfVectorizer() have almost same values. 
 * And also CountVectorizer() and TfidfVectorizer() are best models out of the 4 models as they have less RMSE and MAE values with good R squared values.
